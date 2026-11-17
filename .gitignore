@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 .env
 .env.*
 !.env.example
@@ -229,4 +229,4 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
->>>>>>> 093a5f6a3be65b9385f353889c71df9f1c31fe33
+

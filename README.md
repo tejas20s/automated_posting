@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Automated Posting API
 
 A small FastAPI service. You send it one short message with a link, and it posts that message to Mastodon, Bluesky, Reddit, Telegram and Discord.
@@ -102,4 +102,4 @@ pytest
 ```
 =======
 # automated_posting
->>>>>>> 093a5f6a3be65b9385f353889c71df9f1c31fe33
+
